@@ -9,10 +9,10 @@ Clube de Xadrez
 
 Jogo Xadrez - pensamento computacional  
 [x] Passar instruções das regras de como jogar.  
-[extensão] Ensinar a jogar: dicas  
-[extensão] Fazer simulação em 3D das peças se movendo  
+\[extensão] Ensinar a jogar: dicas  
+\[extensão] Fazer simulação em 3D das peças se movendo  
 
-[não] Realidade Virtual Imersiva  
+\[não] Realidade Virtual Imersiva  
 
 Realidade Aumentada  
   Interface de Usuário Tangível  
