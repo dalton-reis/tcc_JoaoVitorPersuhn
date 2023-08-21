@@ -1,34 +1,26 @@
 # Anotações das reuniões  
 
+Título: Aplicação de Realidade Aumentada para o Ensino de Xadrez  
+
 ## 2023-08-21 - 09:31
 
-XADREZ
-
-xAdRez - 
-
-Aplicação de Realidade Aumentada para o Ensino de Xadrez  
-
+xAdRez
 Clube de Xadrez
-
-AR-molecules – Ensino de Moléculas Químicas com Base em Realidade Aumentada e Ilusão de Ótica
-
-RA
-AR
 
 Jogo Xadrez - pensamento computacional  
 [x] Passar instruções das regras de como jogar.  
-[extensão] Ensinar a jogar: dicas
+[extensão] Ensinar a jogar: dicas  
 [extensão] Fazer simulação em 3D das peças se movendo  
 
-[não] Realidade Virtual Imersiva
+[não] Realidade Virtual Imersiva  
 
-Realidade Aumentada
-  Interface de Usuário Tangível
+Realidade Aumentada  
+  Interface de Usuário Tangível  
 
-Perguntas pesquisa?
+Perguntas pesquisa?  
 
-Produto: O uso de Realidade Aumentada pode motivar e/ou ensinar pessoas a jogarem xadrez?
-Científico: É possível usar um marcador 3D "controlado" para se ter Realidade Aumentada em peças de xadrez?
+Produto: O uso de Realidade Aumentada pode motivar e/ou ensinar pessoas a jogarem xadrez?  
+Científico: É possível usar um marcador 3D "controlado" para se ter Realidade Aumentada em peças de xadrez?  
 Problemas:
 
 - variação nas peças pelo processo de impressão  
@@ -39,4 +31,24 @@ Jogo Xadrez: ser impresso na LaserCut para ser disponibilizado.
 
 Unity
 
-Ideia de TCC
+### Tarefa
+
+Procurar uns 5 trabalho correlatos  
+Cuidar se são atuais e tem características de correlação
+  Quais são as características?
+    Usa peças 3D com Realidade Aumentada
+    Mostra regras de jogo das peças
+
+Site de TCCs DSC: <https://www.furb.br/dsc/tcc/index.php?cd=3&par=1>  
+<https://www.furb.br/dsc/tcc/>  
+<https://www.furb.br/web/4570/servicos/biblioteca/portais-de-busca>  
+<https://www-periodicos-capes-gov-br.ez71.periodicos.capes.gov.br/index.php?>  
+<http://bdtd.ibict.br/vufind/>  
+
+Palavras de Pesquisa:
+
+- xadrez virtual
+- Realidade Aumentada: Interface de Usuário Tangível  
+
+<https://cbie.sbc.org.br/2023/>  
+<https://ceie.sbc.org.br/evento/cbie2022/>  
