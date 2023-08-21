@@ -1,6 +1,6 @@
 # Anotações das reuniões  
 
-<marginnote3app://note/292A8E0C-0644-49C6-B604-921C2B7796A0>  
+marginnote3app://note/292A8E0C-0644-49C6-B604-921C2B7796A0  
 
 Título: Aplicação de Realidade Aumentada para o Ensino de Xadrez  
 
