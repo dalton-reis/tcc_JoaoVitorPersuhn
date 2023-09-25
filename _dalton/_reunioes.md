@@ -55,3 +55,18 @@ Palavras de Pesquisa:
 
 <https://cbie.sbc.org.br/2023/>  
 <https://ceie.sbc.org.br/evento/cbie2022/>  
+
+## 2023-09-25 - 11:13
+
+### Interação
+
+Usar Vuforia com Target Image "laser".  
+
+Ser Multiplayer
+
+### Revisão
+
+Multiplayer: Unity / xadrez  
+Material educacional
+
+Objetivos específicos: rabiscamos juntos  
