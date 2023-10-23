@@ -78,3 +78,7 @@ Objetivos específicos: rabiscamos juntos
 ## 2023-10-21 - 12:12
 
 [2023-10-17_PreProjeto.docx](2023-10-17_PreProjeto.docx "2023-10-17_PreProjeto.docx")  
+
+## 2023-10-23 - 11:52
+
+[2023-10-22_PreProjeto.docx](2023-10-22_PreProjeto.docx "2023-10-22_PreProjeto.docx")  
