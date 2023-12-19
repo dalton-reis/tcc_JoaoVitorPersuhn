@@ -87,3 +87,8 @@ Objetivos específicos: rabiscamos juntos
 
 Revisei os slides.  
 2023-10-30_ApresentacaoPreProjeto.ppt
+
+## 2023-12-19 - 11:04
+
+[2023-12-18_AvaliacaoTCC1_email.pdf](2023-12-18_AvaliacaoTCC1_email.pdf)  
+[2023-12-18_AvaliacaoTCC1.pdf](2023-12-18_AvaliacaoTCC1.pdf)  
