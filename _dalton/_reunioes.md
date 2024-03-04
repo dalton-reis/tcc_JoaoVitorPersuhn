@@ -92,3 +92,30 @@ Revisei os slides.
 
 [2023-12-18_AvaliacaoTCC1_email.pdf](2023-12-18_AvaliacaoTCC1_email.pdf)  
 [2023-12-18_AvaliacaoTCC1.pdf](2023-12-18_AvaliacaoTCC1.pdf)  
+
+## 2024-03-04 - 17:22
+
+Esse trabalho tem como objetivo principal criar um aplicativo utilizando Realidade Aumentada (RA) e Interface de Usuário Tangível (IUT) para o jogo de xadrez.
+Os objetivos específicos são:
+[ ] a) validar se RA e IUT podem aumentar o interesse no jogo xadrez;
+[ ] b) validar se RA e IUT podem auxiliar no ensino do xadrez;
+[ ] c) verificar se é possível utilizar marcadores de RA nas peças do jogo de xadrez para permitir interações usando a IUT.
+
+Os requisitos da ferramenta são:
+[ ] a) deve mostrar as peças e o tabuleiro de xadrez fisicamente (Requisito Funcional – RF);
+[ ] b) deve mostrar as posições de possíveis jogadas para as peças (RF);
+[ ] c) deve ser fisicamente interativo (RF);
+[ ] d) deve utilizar marcadores físicos para representar as peças (RF);
+[ ] e) deve suportar multijogadores (RF);
+[ ] f) deve auxiliar no ensino do xadrez mostrando as possíveis jogadas (RF);
+[ ] g) deve ser intuitivo para o usuário (Requisito Não Funcional – RNF);
+[X] h) utilizar o motor de jogos Unity (RNF);
+[X] i) utilizar a linguagem de programação C# (RNF);
+[ ] j) utilizar a ferramenta Vuforia na parte de Realidade Aumentada (RNF).
+
+### POCs
+
+<https://www.youtube.com/watch?v=FtGy7J8XD90&list=PLmcbjnHce7SeAUFouc3X9zqXxiPbCz8Zp&index=2>  
+
+- Cena jogo xadrez: asset
+- Multiplayer
