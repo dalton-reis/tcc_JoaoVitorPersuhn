@@ -119,3 +119,9 @@ Os requisitos da ferramenta são:
 
 - Cena jogo xadrez: asset
 - Multiplayer
+
+## 2024-03-18 - 17:56
+
+Fazendo o tutorial.  
+Comprei os assets das peças de xadrez.  
+<https://assetstore.unity.com/packages/3d/props/board-games-3d-pack-39912>  
