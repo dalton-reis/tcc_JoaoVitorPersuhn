@@ -125,3 +125,4 @@ Os requisitos da ferramenta são:
 Fazendo o tutorial.  
 Comprei os assets das peças de xadrez.  
 <https://assetstore.unity.com/packages/3d/props/board-games-3d-pack-39912>  
+.. tentar chegar até parte do tutorial de movimentos específicos e multiplayer.  
