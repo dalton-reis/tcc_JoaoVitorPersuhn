@@ -126,3 +126,12 @@ Fazendo o tutorial.
 Comprei os assets das peças de xadrez.  
 <https://assetstore.unity.com/packages/3d/props/board-games-3d-pack-39912>  
 .. tentar chegar até parte do tutorial de movimentos específicos e multiplayer.  
+
+## 2024-04-08 - 21:45
+
+Finalizou o jogo em si. tem problema na peça Bispo para matar peça.  
+Já tem indicação de movimentos.  
+Até próxima semana terminar multiplayer.  
+Depois ir para parte de RA.  
+
+Tem um GitHub: <https://github.com/jvpersuhn/XadrezTcc>  
