@@ -135,3 +135,8 @@ Até próxima semana terminar multiplayer.
 Depois ir para parte de RA.  
 
 Tem um GitHub: <https://github.com/jvpersuhn/XadrezTcc>  
+
+## 2024-09-23 - 10:07
+
+Convite para Git dele:
+<https://github.com/jvpersuhn/XadrezTccVuforia>  
